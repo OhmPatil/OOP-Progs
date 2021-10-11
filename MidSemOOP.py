@@ -54,5 +54,3 @@ cylinder1 = Cylinder()
 cylinder1.accept()
 cylinder1.display()
 
-
-''' This program was not to be done by me. I did it by mistake but still submitting this as told by you. PLEASE allow my late submission.'''
